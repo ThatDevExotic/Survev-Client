@@ -1,2 +1,6 @@
-# The first custom written app.js client of survev.io.
-## Chrome Extension Download: (soon)
+# Survev.io Cheats
+## How to install:
+For this example I use chrome.
+
+- Open developer tools (CTRL + SHIFT + I)
+![]()

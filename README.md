@@ -1,23 +1,34 @@
 # Survev.io Cheats
 
-## What it looks like:
-![](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/Github%20Assets/ui.png)
-![](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/Github%20Assets/menu.png)
+## UI:
 
-## How to install:
-For this example I use chrome.
+![UI Preview](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/Github%20Assets/ui.png)
+![Menu Preview](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/Github%20Assets/menu.png)
 
-- Open developer tools (CTRL + SHIFT + I) and go to "Sources".
-![](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/Github%20Assets/devtools1.png)
+## Installation:
 
-- Find app-xxxxx.js
-![](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/Github%20Assets/devtools2.png)
+For this example, we will use Chrome.
 
-- Right click the file, and choose "Override Content"
-![](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/Github%20Assets/devtools2.png)
+### Steps:
 
-- CTRL + A all the code inside of app.js, and replace it with client.js code from [here](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/client.js)
+1. **Open Developer Tools**:
+   - Press `CTRL + SHIFT + I` to open Chrome Developer Tools, go to the **"Sources"** tab.
 
-- CTRL + S to save
+   ![Open DevTools](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/Github%20Assets/devtools1.png)
 
-- CTRL + R to reload (client only starts when dev tools is open, you can close it after loading the page)
+2. **Find the Survev's APP.JS File**:
+   - Locate the file named `app-xxxxx.js` in the file system.
+
+   ![Find app.js](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/Github%20Assets/devtools2.png)
+
+3. **Override File Content**:
+   - Right-click on the `app-xxxxx.js` file and choose **"Override Content"**.
+
+   ![Override Content](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/Github%20Assets/devtools2.png)
+
+4. **Replace the Code**:
+   - Press `CTRL + A` to select all the code inside `app.js`, then replace it with the content from [this client.js file](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/client.js).
+
+5. **Save and Reload**:
+   - Press `CTRL + S` to save the changes.
+   - Press `CTRL + R` to reload the page. (Note: The client only starts when Developer Tools is open; you can close them after the page loads.)

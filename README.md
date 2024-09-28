@@ -24,7 +24,7 @@ For this example, we will use Chrome.
 3. **Override File Content**:
    - Right-click on the `app-xxxxx.js` file and choose **"Override Content"**.
 
-   ![Override Content](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/Github%20Assets/devtools2.png)
+   ![Override Content](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/Github%20Assets/devtools3.png)
 
 4. **Replace the Code**:
    - Press `CTRL + A` to select all the code inside `app.js`, then replace it with the content from [this client.js file](https://raw.githubusercontent.com/ThatDevExotic/Survev-Client/refs/heads/main/client.js).

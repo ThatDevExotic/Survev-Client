@@ -1,17 +1,26 @@
-[ WIP, WILL BE OUT SOON ]
-[Sample Video](https://github.com/ThatDevExotic/Survev-Client/raw/refs/heads/main/Github%20Assets/GoofyAhhAntiCheat.mp4)
+# Project Overview
 
-# TODO:
-✅ | Aimbot
-✅ | Spinbot
-✅ | Emote Spam
-✅ | Name Viewer
-✅ | No Ping Cooldown
-✅ | Custom Zoom
-✅ | Draggable Counters (FPS, Health, Etc...)
-❌ | Fake 50v50
-❌ | All Loadout Items
-❌ | User Friendly UI
+[WIP, Will Be Out Soon]
+
+[Sample Video Preview](https://github.com/ThatDevExotic/Survev-Client/raw/refs/heads/main/Github%20Assets/GoofyAhhAntiCheat.mp4)
+
+---
+
+## TODO List
+
+### Complete Features
+- ✅ Aimbot
+- ✅ Spinbot
+- ✅ Emote Spam
+- ✅ Name Viewer
+- ✅ No Ping Cooldown
+- ✅ Custom Zoom
+- ✅ Draggable Counters (FPS, Health, etc.)
+
+### Working on / Planned features
+- ❌ Fake 50v50 Mode
+- ❌ Access to All Loadout Items
+- ❌ User-Friendly UI
 
 # Survev.io Cheats
 

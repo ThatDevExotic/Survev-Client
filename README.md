@@ -16,6 +16,7 @@
 - ✅ No Ping Cooldown
 - ✅ Custom Zoom
 - ✅ Draggable Counters (FPS, Health, etc.)
+- ✅ Weapon Boarders
 
 ### Working on / Planned features
 - ❌ Fake 50v50 Mode

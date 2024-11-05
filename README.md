@@ -1,4 +1,5 @@
 [ WIP, WILL BE OUT SOON ]
+[![Sample Video]()](https://github.com/ThatDevExotic/Survev-Client/raw/refs/heads/main/Github%20Assets/GoofyAhhAntiCheat.mp4)
 
 # Survev.io Cheats
 

@@ -19,9 +19,11 @@
 - ✅ Weapon Boarders
 
 ### Working on / Planned features
-- ❌ Fake 50v50 Mode
-- ❌ Access to All Loadout Items
-- ❌ User-Friendly UI
+- ❌ Fake 50v50 Player Model
+- ❌ User Friendly UI
+
+### Possible Upcoming Features
+- ⚠️ Access to All Loadout Items (client side only)
 
 # Survev.io Cheats
 
